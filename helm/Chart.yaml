@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-collateral-administration
+description: "BIAN Service Domain: Collateral Administration (Administer pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Loans and Deposits"
+  bian/asset-type: "Collateral Asset"
+  bian/control-record: "Collateral Asset Administrative Plan"
